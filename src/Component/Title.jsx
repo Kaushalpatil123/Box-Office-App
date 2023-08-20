@@ -1,7 +1,7 @@
 export default function Title() {
   return (
     <>
-      <h1>This is a title</h1>
+      <h1>Box-Office</h1>
       <p>Are you looking for Movies?</p>
     </>
   );
